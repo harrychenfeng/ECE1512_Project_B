@@ -1,0 +1,5 @@
+./test2/0090.jpg
+./test2/556.jpg
+./test2/69223.jpg
+./test2/69243.jpg
+./test2/69263.jpg
